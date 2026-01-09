@@ -1,6 +1,6 @@
 # Temperature Sensor Characterisation and Analysis
 
-This repository contains the experimental set-up details, data acquisition and analysis scripts, and experimental results for ELEC70101 focused on temperature sensor characterisation and comparison.
+This repository contains the experimental set-up details, data acquisition and analysis scripts, and experimental results for ELEC70101 (Group 2) focused on temperature sensor characterisation and comparison.
 
 ## Sensors Investigated
 - TMP36 (analogue temperature sensor)
