@@ -19,7 +19,7 @@ This repository contains the experimental set-up details, data acquisition and a
 The repository is organised as follows:
 - `code/` – MATLAB scripts and STM32 embedded code used for data acquisition, processing, and analysis
 - `docs/` – relevant documents e.g. schematic, pcb, figures
-- `docs/` – design files related to the experimental design and set-up
+- `cad/` – design files related to the experimental design and set-up
 
 ## Notes
 All plots and analysis are generated from experimentally measured data. Raw data is preserved and not modified.
