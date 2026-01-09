@@ -19,7 +19,7 @@ This repository contains the experimental setup, raw data, analysis code, and re
 The repository is organised as follows:
 - `data/` – raw and processed experimental data
 - `code/` – MATLAB scripts and STM32 embedded code used for data acquisition and analysis
-- `docs/` – figures and final report
+- `docs/` – relevant documents e.g. schematic, pcb, figures
 - `logs/` – experimental notes and observations
 
 ## Notes
