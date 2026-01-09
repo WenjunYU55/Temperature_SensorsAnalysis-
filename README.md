@@ -1,6 +1,6 @@
 # Temperature Sensor Characterisation and Analysis
 
-This repository contains the experimental setup, raw data, analysis code, and results for a coursework project focused on temperature sensor characterisation and comparison.
+This repository contains the experimental setup, raw data, analysis code, and results for ELEC70101 focused on temperature sensor characterisation and comparison.
 
 ## Sensors Investigated
 - TMP36 (analog temperature sensor)
@@ -9,15 +9,16 @@ This repository contains the experimental setup, raw data, analysis code, and re
 - MAX31855 (thermocouple interface)
 
 ## Objectives
-- Design a safe and suitable test bed for temperature measurements
-- Implement appropriate readout electronics and data acquisition
+- Design a safe and suitable test set up for temperature measurements
+- Design read out electronics
+- Lay out a good data acquisition strategy
 - Characterise sensor performance including sensitivity, linearity, accuracy, and stability
 - Compare measured performance against datasheets and reference measurements
 
 ## Repository Structure
 The repository is organised as follows:
 - `data/` – raw and processed experimental data
-- `code/` – MATLAB scripts and embedded code used for data acquisition and analysis
+- `code/` – MATLAB scripts and STM32 embedded code used for data acquisition and analysis
 - `docs/` – figures and final report
 - `logs/` – experimental notes and observations
 
